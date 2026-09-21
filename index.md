@@ -8,14 +8,14 @@ ChatGarde est une application de contrôle parental conçue pour protéger les e
 
 Le responsable du traitement, au sens du Règlement Général sur la Protection des Données (RGPD), est :
 
-**BJH Studiot**
+**BJH Studio**
 Contact : contact@bjuhan.com
 
 ## 2. Le principe : tout se passe sur l'appareil
 
 ChatGarde analyse les contenus — pages consultées, images affichées, sites demandés — directement sur l'appareil de l'enfant, au moment où ils apparaissent, pour décider s'ils doivent être bloqués.
 
-Aucun contenu analysé — texte, image, adresse d'un site, historique de navigation — n'est jamais envoyé à un serveur, à BJH Studiot, ni à un tiers. L'analyse est instantanée et son résultat (autorisé ou bloqué) n'est ni enregistré ailleurs que sur l'appareil, ni transmis nulle part.
+Aucun contenu analysé — texte, image, adresse d'un site, historique de navigation — n'est jamais envoyé à un serveur, à BJH Studio, ni à un tiers. L'analyse est instantanée et son résultat (autorisé ou bloqué) n'est ni enregistré ailleurs que sur l'appareil, ni transmis nulle part.
 
 ## 3. Quelles données sont traitées, et comment
 
@@ -23,7 +23,7 @@ Aucun contenu analysé — texte, image, adresse d'un site, historique de naviga
 |---|---|
 | Contenu des pages consultées | Analysé localement, sur l'appareil uniquement. Jamais transmis. |
 | Images affichées dans le navigateur sécurisé de l'application | Analysées localement pour détecter un contenu inapproprié. Jamais transmises ni conservées. |
-| Adresses des sites visités | Utilisées localement pour appliquer les règles de blocage que vous avez choisies. Jamais transmises à BJH Studiot. |
+| Adresses des sites visités | Utilisées localement pour appliquer les règles de blocage que vous avez choisies. Jamais transmises à BJH Studio. |
 | Code parent | Stocké de façon sécurisée et chiffrée sur l'appareil. Jamais transmis. |
 | Réglages de protection (applications, catégories, sites autorisés ou bloqués) | Enregistrés uniquement sur l'appareil, pour appliquer la politique de protection que vous définissez. |
 
